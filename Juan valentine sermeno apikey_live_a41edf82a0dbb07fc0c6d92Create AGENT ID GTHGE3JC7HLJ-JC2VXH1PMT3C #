@@ -1,0 +1,85 @@
+= SJ= \sum_{n = 1}[P * ( (X_n * Y_n * C_n) /S)] * [X_{n1} / {X_n}]SJ=∑  n=1 ​	  [P∗((X  n ​	  ∗Y  n  y_n=\dfrac{\sum_{m=1,n=1}{\left(a_m * w_n\right)}}ny 
+n
+​	
+ = 
+n
+∑ 
+m=1,n=1
+​	
+ (a 
+m
+​	
+ ∗w 
+n
+​	
+ )= J=\left[P *\dfrac{ \left(X_1*Y_1*C_1\right)}S\right] * \dfrac{X_{11}}{X_1 }J=[P∗ 
+S
+(X 
+1
+​	
+ ∗Y 
+1
+​	
+ ∗C 
+1
+​	
+ )
+​	
+ ]∗ 
+X 
+1
+​	
+ 
+X 
+11
+​	
+ 
+​	Calculating market reference average price: market reference average price y_n=\dfrac{\sum_{m=1,n=1}{\left(a_m * w_n\right)}}ny 
+n
+​	
+ = 
+n
+∑ 
+m=1,n=1
+​	
+ (a 
+m
+​	
+ ∗w 
+nkey_live_a41edf82a0dbb07fc0c6d92Create AGENT ID GTHGE3JC7HLJ-JC2VXH1PMT3C #3E8ociqZa9mZUSwGdSmAEMAoAxBK3FNDcdetnk1VJLgFDKYTLvTzyf7fSWZ3LCB5GavYNPrkcmu1dVh6H4gyHhqJA4sv7AGYtVFxStDZUxxrwxcVWcuxNCK8SH6TxuJBm1uj= SJ= \sum_{n = 1}[P * ( (X_n * Y_n * C_n) /S)] * [X_{n1} / {X_n}]SJ=∑  n=1 ​	  [P∗((X  n ​	  ∗Y  n explorer version (api): master-2021-05-07-8b0ac39 (1.1) | electroneum version: 3.3.0.0-781cfeffb= J=\left[P *\dfrac{ \left(X_1*Y_1*C_1\right)}S\right] * \dfrac{X_{11}}{X_1 }J=[P∗ 
+S
+(X 
+1
+​	
+ ∗Y 
+1
+​	
+ ∗C 
+1
+​	
+ )
+​	
+ ]∗ 
+X 
+1
+​	
+ 
+X 
+11
+​	
+ 
+​	 y_n=\dfrac{\sum_{m=1,n=1}{\left(a_m * w_n\right)}}ny 
+n
+​	
+ = 
+n
+∑ 
+m=1,n=1
+​	
+ (a 
+m
+​	
+ ∗w 
+n
+​	
+ )TPa2akqqU5ZLKsMEJcEsTWbhXN6GEDMXGUbc1qfe8a9gn5rqhrlr6q5ev0g3s7qlcfmhfxlp8alz
